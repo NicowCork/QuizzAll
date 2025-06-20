@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2AA90229-C214-47A8-ADC1-A321C5015007"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "858AC24C-DA73-469D-807F-68D1C79AAEF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuizzAll/Jissonne/JSonRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "JSonCharacter"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A68660C5-936E-4A60-9EAC-85F9DBE429B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuizzAll/Rick&amp;Morty/RickAndMortyVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8707A6D-EBAF-47DC-A509-BE32FC43BEDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuizzAll/Game Four/GameScene4.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D8707A6D-EBAF-47DC-A509-BE32FC43BEDB - 5a019abf0640976"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizzAll.GameScene4.pallet.getter : __C.SKSpriteNode"
+                  moduleName = "QuizzAll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicolas/Documents/Project%20Xcode/QuizzAll/QuizzAll/Game%20Four/GameScene4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "D8707A6D-EBAF-47DC-A509-BE32FC43BEDB - bd0557e2cafd252d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizzAll.GameScene4.init(size: __C.CGSize) -&gt; QuizzAll.GameScene4"
+                  moduleName = "QuizzAll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicolas/Documents/Project%20Xcode/QuizzAll/QuizzAll/Game%20Four/GameScene4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "D8707A6D-EBAF-47DC-A509-BE32FC43BEDB - 8a434655fc536c8a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizzAll.GameScene4.init() -&gt; QuizzAll.GameScene4"
+                  moduleName = "QuizzAll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicolas/Documents/Project%20Xcode/QuizzAll/QuizzAll/Game%20Four/GameScene4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "D8707A6D-EBAF-47DC-A509-BE32FC43BEDB - 7769229a58eb7fcd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizzAll.GameScene4.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QuizzAll.GameScene4&gt;"
+                  moduleName = "QuizzAll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicolas/Documents/Project%20Xcode/QuizzAll/QuizzAll/Game%20Four/GameScene4.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
